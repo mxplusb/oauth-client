@@ -1,0 +1,4 @@
+/mnt/c/Users/MikeLloyd/Development/csharp/oauth-client/src/obj/Debug/netstandard2.0/oauth.csprojAssemblyReference.cache
+/mnt/c/Users/MikeLloyd/Development/csharp/oauth-client/src/obj/Debug/netstandard2.0/oauth.csproj.CoreCompileInputs.cache
+/mnt/c/Users/MikeLloyd/Development/csharp/oauth-client/src/obj/Debug/netstandard2.0/oauth.AssemblyInfoInputs.cache
+/mnt/c/Users/MikeLloyd/Development/csharp/oauth-client/src/obj/Debug/netstandard2.0/oauth.AssemblyInfo.cs

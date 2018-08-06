@@ -1,0 +1,4 @@
+/mnt/c/Users/MikeLloyd/Development/csharp/oauth-client/src/obj/Debug/netcoreapp2.1/oauth.csprojAssemblyReference.cache
+/mnt/c/Users/MikeLloyd/Development/csharp/oauth-client/src/obj/Debug/netcoreapp2.1/oauth.csproj.CoreCompileInputs.cache
+/mnt/c/Users/MikeLloyd/Development/csharp/oauth-client/src/obj/Debug/netcoreapp2.1/oauth.AssemblyInfoInputs.cache
+/mnt/c/Users/MikeLloyd/Development/csharp/oauth-client/src/obj/Debug/netcoreapp2.1/oauth.AssemblyInfo.cs
