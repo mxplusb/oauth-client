@@ -15,6 +15,7 @@ namespace oauth
         public string ClientId;
         public string ClientSecret;
         public string TokenUrl;
+        public string RefreshUrl;
         public List<string> Scopes;
         public Dictionary<string, string> EndpointParameters;
     }
